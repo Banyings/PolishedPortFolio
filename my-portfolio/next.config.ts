@@ -7,8 +7,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: isGithubPages ? '/PolishedPortfolio' : '',
-  assetPrefix: isGithubPages ? '/PolishedPortfolio/' : '',
+  basePath: isGithubPages ? '/PolishedPortFolio' : '',
+  assetPrefix: isGithubPages ? '/PolishedPortFolio/' : '',
 };
 
 module.exports = nextConfig;
